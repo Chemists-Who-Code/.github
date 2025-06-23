@@ -10,7 +10,7 @@ We are currently working to make a a Summer '25 workshop a posibility, but curre
 
 ## Office Hours
 
-Chemists who Code is not currently holding office hours over the summer. Office hours are typically held during on the last Friday of the month at 11:00 am MST. Anyone is welcome. Members are happy to provide help and input on research questions, and how coding might be useful. Office hours have been attended by people who 
+Chemists who Code is not currently holding office hours over the summer. Office hours are typically held during on the last Friday of the month at 11:00 am MST. Anyone is welcome. Members are happy to provide help and input on research questions, and how coding might be useful. Office hours have been attended by people with a wide range of experience levels, from solving complex plotting problems to automating administrative tasks. 
 
 ## Getting Involved
 
