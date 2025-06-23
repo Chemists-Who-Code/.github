@@ -26,6 +26,15 @@ A survey was sent out 8 months after the first; it recieved 20-25 responses for 
 |--------------|------------------------------|------------------------------|
 | 100%         |  100%                        | 80%                          |
 
+Below is what people thought about the skills in the 2024 workshop:
+| Programming Skill                  | Did not use this skill | Not very helpful | a little/very helpful |
+|------------------------------------|------------------------|------------------|-----------------------|
+|Installing a package                | 5%                     | 0%               | 95%                   | 
+| Loading data from a file           | 0%                     | 0%               | 100%                  |
+|Visualizing data with matplotlib    | 15%                    | 0%               | 85%                   |
+|Analyzing data with python          | 10%                    | 0%               | 90%                   |
+|Using gen AI to Write /  debug code | 25%                    | 10%              | 65%                   |
+
 Below are testimonials from real people who attended Chemists who Code office hours.
 
 > 'I came to the Chemists Who Code office hours to get help finding the inverse of a complex fitting function that I was using to fit experimental data. Multiple people helped me with my code and brainstormed with me potential solutions for the problems I was encountering. The ideas and advice I got during office hours set me on a path that eventually led to my code being successful.'
